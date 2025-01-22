@@ -1,0 +1,11 @@
+torch>=2.2.1
+circuitsvis
+einops
+numpy
+torch 
+eindex 
+ipython 
+jaxtyping 
+tqdm 
+transformer_lens 
+plotly
